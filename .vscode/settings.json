@@ -1,0 +1,13 @@
+{
+    "editor.tabSize": 4,
+    "files.insertFinalNewline": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.addMissingImports": "explicit"
+    },
+    "prettier.configPath": ".prettierrc",
+    "prettier.prettierPath": "./node_modules/prettier/",
+    "typescript.preferences.importModuleSpecifier": "non-relative"
+}

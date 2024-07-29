@@ -1,0 +1,37 @@
+# config
+**/tsconfig.*
+**/.eslintrc
+**/.prettierrc
+**/.prettierignore
+**/vite.config.*
+**/next.config.*
+**/tailwind.config.*
+**/postcss.config.*
+**/plopfile.*
+**/jest.config.*
+
+# lock
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
+
+# test
+**/*.spec.*
+**/*.test.*
+
+# trash
+**/.DS_Store
+
+# dir
+**/node_modules/**/*
+**/public/**/*
+**/dist/**/*
+**/dist-ssr/**/*
+**/build/**/*
+**/coverage/**/*
+**/bin/**/*
+**/obj/**/*
+**/out/**/*
+**/.yarn/**/*
+**/.next/**/*
+**/.vercel/**/*
