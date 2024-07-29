@@ -3,10 +3,6 @@
 **/yarn.lock
 **/pnpm-lock.yaml
 
-# test
-**/*.spec.*
-**/*.test.*
-
 # trash
 **/.DS_Store
 **/*.hbs
