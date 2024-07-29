@@ -4,6 +4,7 @@
 **/.prettierrc
 **/.prettierignore
 **/vite.config.*
+**/vitest.config.*
 **/next.config.*
 **/tailwind.config.*
 **/postcss.config.*
